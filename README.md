@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @montschris
 - 👀 I’m interested in programming and web development!
 - 🌱 I’m currently learning data science
-- 📫 Anyone who's interested can reach me through my socials below.
+- 📫 Anyone who's interested can reach me through my socials indicated in my profile.
 - ⚡ Fun fact: I'm not a robot
 
 <!---
